@@ -27,3 +27,5 @@ yarn-error.log*
 
 /.chrome/
 /.vscode
+
+package-lock.json
